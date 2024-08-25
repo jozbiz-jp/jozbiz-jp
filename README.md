@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with expe
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jozbiz-jp&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jozbiz-jp&theme=dark&margin-w=15)
 
 ## 📊 Language Stats
 
