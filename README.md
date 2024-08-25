@@ -65,7 +65,7 @@ These projects are free to use with some features for premium users only.
 
 ## 🗂️ Portfolio
 
-Check out my portfolio at [My Consultancy](https://jozbiz.com/))
+Check out my portfolio at [My Consultancy](https://jozbiz.com/)
 
 <br/>
 
