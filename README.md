@@ -27,42 +27,27 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 - Figma: [Community Contributions](https://www.figma.com/@jozbiz_jp)
 - Email: joel@jozbiz.com
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jozbiz-jp&show_icons=true&theme=dark)
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jozbiz-jp&theme=dark)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jozbiz-jp&theme=dark&margin-w=15)
 
 ## 📊 Language Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jozbiz-jp&layout=compact&theme=dark)
 
-## ✍️ Latest Blog Posts
+## ✍️ Open source repos and projects
 
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post 1](Blog URL 1)
-- [Your Latest Blog Post 2](Blog URL 2)
-- [Your Latest Blog Post 3](Blog URL 3)
-<!-- BLOG-POST-LIST:END -->
+These projects are snippets, simple to complex set of repos that are free-to-use forever:
+<!-- FREE-PROJECTS:START -->
+- [Anime Gallery buitl with Svelte](https://github.com/jozbiz-jp/svelte-anime-gallery)
+- [Simple HTML boilerplate for beginners out there](https://github.com/jozbiz-jp/simple-html-boilerplate)
+<!-- FREE-PROJECTS:END -->
 
-## 🚀 Recent GitHub Activity
+## 🚀 Freemium projects
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📰 Latest Projects
-
-<!-- PROJECT-LIST:START -->
-- [Your Project 1](Project URL 1) - Short Description
-- [Your Project 2](Project URL 2) - Short Description
-- [Your Project 3](Project URL 3) - Short Description
-<!-- PROJECT-LIST:END -->
+These projects are free to use with some features for premium users only.
+<!-- PREMIUM-PROJECTS:START -->
+<!-- PREMIUM-PROJECTS:END -->
 
 ## 🗂️ Portfolio
 
