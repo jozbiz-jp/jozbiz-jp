@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 
 These projects are snippets, simple to complex set of repos that are free-to-use forever:
 <!-- FREE-PROJECTS:START -->
-- [Anime Gallery buitl with Svelte](https://github.com/jozbiz-jp/svelte-anime-gallery)
+- [Anime Gallery built with Svelte](https://github.com/jozbiz-jp/svelte-anime-gallery)
 - [Simple HTML boilerplate for beginners out there](https://github.com/jozbiz-jp/simple-html-boilerplate)
 <!-- FREE-PROJECTS:END -->
 
