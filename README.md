@@ -1,6 +1,6 @@
 # Hi there, I'm Joel Philip 👋
 
-Welcome to my GitHub profile! I'm a passionate web solutions architect with experience in UI/UX design and development. I love creating and contributing to open-source projects, building innovative solutions, and sharing my knowledge with the community.
+Welcome to my GitHub profile! I'm a passionate web solutions architect with near-decade experience in UI/UX design and development. I love creating and contributing to open-source projects, building innovative solutions, and sharing my knowledge with the community.
 
 ## 🚀 About Me
 
