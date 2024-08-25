@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 - 💬 Ask me about UI/UX development, Hybrid Web Platforms and modern design/dev trends.
 - 📫 How to reach me: joel@jozbiz.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Art is how I vent.
+- ⚡ Fun fact: Art is how I vibe and vent.
 
 <br/>
 
