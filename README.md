@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 
 - 🔭 I’m currently working on Healthcare and E-Commerce based projects.
 - 🌱 I’m currently learning Neural Networks and AI modelling.
-- 👯 I’m looking to collaborate on projects based on Healthcare, Creator platforms and Bitcoin technology.
+- 👯 I’m looking to collaborate on projects based on Healthcare, Creator platforms and Blockchain technology.
 - 💬 Ask me about UI/UX development, Hybrid Web Platforms and modern design/dev trends.
 - 📫 How to reach me: joel@jozbiz.com
 - 😄 Pronouns: He/Him
