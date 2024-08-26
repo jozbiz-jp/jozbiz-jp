@@ -74,5 +74,3 @@ Check out my portfolio at [My Consultancy](https://jozbiz.com/)
 If you'd like to get in touch, feel free to reach out to me via email - joel@jozbiz.com
 
 ---
-
-⭐️ From [Your GitHub Username](https://github.com/jozbiz-jp)
