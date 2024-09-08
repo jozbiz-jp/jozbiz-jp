@@ -49,6 +49,8 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 
 These projects are snippets, simple to complex set of repos that are free-to-use forever:
 <!-- FREE-PROJECTS:START -->
+- [SEO Health Checker](https://github.com/jozbiz-jp/seo-health-checker)
+- [Browser Copy Assistant](https://github.com/jozbiz-jp/browser-copy-assistant)
 - [Common JS Utils](https://github.com/jozbiz-jp/common-js-utils)
 - [Anime Gallery built with Svelte](https://github.com/jozbiz-jp/svelte-anime-gallery)
 - [Simple HTML boilerplate for beginners out there](https://github.com/jozbiz-jp/simple-html-boilerplate)
