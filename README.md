@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Healthcare and E-Commerce based projects.
+- 🔭 I’m currently working on Construction and Healthcare based projects.
 - 🌱 I’m currently learning Neural Networks and AI modelling.
-- 👯 I’m looking to collaborate on projects based on Healthcare, Creator platforms and Blockchain technology.
+- 👯 I’m looking to collaborate on projects that are looking to bring a zero to one change.
 - 💬 Ask me about UI/UX development, Hybrid Web Platforms and modern design/dev trends.
 - 📫 How to reach me: joel@jozbiz.com
 - 😄 Pronouns: He/Him
@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a passionate web solutions architect with near
 ## 🛠️ My Skills
 
 - **Languages**: Python, Web full stack (HTML, CSS, JavaScript)
-- **Frameworks**: ReactJS, NuxtJS, NextJS, Svelte, VueJS, IonicJS, VanillaJS, Material Design (MUI)
-- **Tools**: Postgres, MongoDB, Postman, Figma, AWS, Apache Solr
+- **Web Frameworks**: Anything JavaScript Related (ReactJS, NuxtJS, NextJS, Svelte, VueJS, IonicJS, VanillaJS and more), Anything Python Related (Django, Flask, etc.), Material Design (MUI)
+- **Tools**: Postgres, MongoDB, Figma, AWS, Apache Solr
 
 <br/>
 
